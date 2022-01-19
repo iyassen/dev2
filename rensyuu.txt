@@ -2,3 +2,4 @@
 練習中です
 add
 commit
+git remove
