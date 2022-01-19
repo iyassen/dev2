@@ -3,3 +3,4 @@
 add
 commit
 git remove
+git status
