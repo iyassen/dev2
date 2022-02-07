@@ -1,7 +1,0 @@
-練習します
-練習中です
-add
-commit
-git remove
-git status
-git diff
